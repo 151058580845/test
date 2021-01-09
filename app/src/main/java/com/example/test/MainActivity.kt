@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
 
     private test(){
         dsdd int;
+        asasasasasa bool;
     }
 }
